@@ -21,7 +21,6 @@ export const newOrder = TryCatch(
 
     if (
       !shippingInfo ||
-      !shippingInfo ||
       !orderItems ||
       !user ||
       !subtotal ||
